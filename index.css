@@ -1,0 +1,51 @@
+.green{
+
+
+    background-image: url("leaf.jpg");
+    height: 500px;
+}
+
+
+.green1 {
+
+    width: 700px;
+    color: white;
+    /* background-color: black; */
+}
+
+
+.white{
+
+
+    width: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+
+}
+
+.About{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color: burlywood;
+}
+
+.foot{
+
+    color: white;
+    background-color: black;
+}
+
+.Learn{
+
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.Feedback{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
